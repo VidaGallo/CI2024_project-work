@@ -21,7 +21,7 @@ Using three distinct subpopulations streamlined the tuning of exploitation and e
 <br><br>
 In particular the algorithm performed:
 1. very well with the Problems 1, 3, 4, 5, 6
-2. well with Problems 7
+2. well with Problem 7
 3. less effectively for Problem 2 and 8 (it could not converge in time to a reasonable result)
 <br>
 <br>
