@@ -1,3 +1,7 @@
+### NOTE: A change was made to the s308810.py file due to improperly unclosed parentheses.
+
+<br><br>
+
 # Symbolic regression
 
   The project was done by Gabriele Pirilli and Vida Gallo. 
